@@ -4,7 +4,7 @@ import psycopg2
 import re
 import pandas as pd
 
-fullpath = 'invoices_dpf_reader/invoices/'
+fullpath = 'invoices/'
 # VARIABLES FOR YOUR DATABASE
 db_name = 'postgres'
 schema = ''   # ONLY FOR POSTGRESQL

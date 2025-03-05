@@ -1,1 +1,1 @@
-Add your invoices on the "invoices" folder.
+Leitura de notas fiscais em pdfs
